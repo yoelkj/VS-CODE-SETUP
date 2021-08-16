@@ -23,6 +23,8 @@
 - QUOKKA.JS (Live Scratchpad for javascript)
 
 # REACT
+- REACTJS CODE SNIPPETS
+- GENERATE-REACT-COMPONENT
 - ES7 REACT/REDUX/GRAPHQL/REACT NATIVE (Snippets)
 - MDX (provide sintaxis - jsx in markdown)
 - VSCODE-STYLED-COMPONENTS (Sintax styled components)
