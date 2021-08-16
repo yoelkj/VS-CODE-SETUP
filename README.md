@@ -1,37 +1,46 @@
 # VS-CODE-SETUP
 
-1.- AUTO RENAME TAG (html)
+- AUTO RENAME TAG (html)
 
-2.- BRACKET PAIR COLORIZER (Styling code.)
+- BRACKET PAIR COLORIZER (Styling code.)
 
-3.- ES7 REACT/REDUX/GRAPHQL/REACT NATIVE (Snippets)
+- HIGHLIGHT MATCHING TAG (Closing and open tags)
 
-4.- HIGHLIGHT MATCHING TAG (Closing and open tags)
+- IDENT-RAINBOW (Makes indentation easier to read oderwat)
 
-5.- IDENT-RAINBOW (Makes indentation easier to read oderwat)
+- PRETIER (code stiling)
 
-6.- Live server (Make server to test code)
+- MATERIAL ICON THEME
 
-7.- MDX (provide sintaxis - jsx in markdown)
+- PASTE JSON AS CODE
 
 ![alt text](https://raw.githubusercontent.com/yoelkj/VS-CODE-SETUP/main/img/1-ext.png)
+# LIVE SERVER
+- Live server (Make server to test code)
+- PREVIEW ON WEB SERVER (web server to test)
 
-8.- PRETIER (code stiling)
+# JAVASCRIPT
+- QUOKKA.JS (Live Scratchpad for javascript)
 
-9.- PREVIEW ON WEB SERVER (web server to test)
+# REACT
+- ES7 REACT/REDUX/GRAPHQL/REACT NATIVE (Snippets)
+- MDX (provide sintaxis - jsx in markdown)
+- VSCODE-STYLED-COMPONENTS (Sintax styled components)
 
-10.- QUOKKA.JS (Live Scratchpad for javascript)
+- DOTENV (support to .env files)
+![alt text](https://raw.githubusercontent.com/yoelkj/VS-CODE-SETUP/main/img/3-ext.png)
 
-11.- SVELTE (svelt support)
+# SVELTE
 
-12.- SVELTE 3 SNIPPETS (Snippeds)
+- SVELTE (svelt support)
 
-13.- SVELTE INTELLISENSE (Provide intellisense for data events...)
+- SVELTE 3 SNIPPETS (Snippeds)
 
-14.- VSCODE-STYLED-COMPONENTS (Sintax styled components)
+- SVELTE INTELLISENSE (Provide intellisense for data events...)
 
 ![alt text](https://raw.githubusercontent.com/yoelkj/VS-CODE-SETUP/main/img/2-ext.png)
+# FLUTTER
 
-15.- DOTENV (support to .env files)
-
-![alt text](https://raw.githubusercontent.com/yoelkj/VS-CODE-SETUP/main/img/3-ext.png)
+- AWESOME FLUTTER SNIPPETS
+- DART
+- FLUTTER
