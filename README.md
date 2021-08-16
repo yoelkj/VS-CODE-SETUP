@@ -14,6 +14,8 @@
 
 7.- MDX (provide sintaxis - jsx in markdown)
 
+![alt text](https://raw.githubusercontent.com/yoelkj/VS-CODE-SETUP/main/img/1-ext.png)
+
 8.- PRETIER (code stiling)
 
 9.- PREVIEW ON WEB SERVER (web server to test)
@@ -28,4 +30,8 @@
 
 14.- VSCODE-STYLED-COMPONENTS (Sintax styled components)
 
+![alt text](https://raw.githubusercontent.com/yoelkj/VS-CODE-SETUP/main/img/2-ext.png)
+
 15.- DOTENV (support to .env files)
+
+![alt text](https://raw.githubusercontent.com/yoelkj/VS-CODE-SETUP/main/img/3-ext.png)
